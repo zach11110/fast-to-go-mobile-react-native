@@ -1,0 +1,15 @@
+{
+  "genders": ["male", "female"],
+  "carTypes": ["commercial", "luxury", "women"],
+  "userTypes": ["passenger", "driver"],
+  "distances": [
+    [0, 10],
+    [10, 15],
+    [15, 25],
+    [25, 30],
+    [30, 45]
+  ],
+  "productionYears": [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023],
+  "models": ["mercedes", "toyota"],
+  "colors": ["blue", "yellow", "black", "gray"]
+}

@@ -1,0 +1,1189 @@
+{
+  "main": {
+    "en": "Main",
+    "ar": "الرئيسي"
+  },
+  "work": {
+    "en": "Work",
+    "ar": "العمل"
+  },
+  "club": {
+    "en": "Club",
+    "ar": "النادي"
+  },
+
+  "cafe": {
+    "en": "Cafe",
+    "ar": "مقهى"
+  },
+  "park": {
+    "en": "Park",
+    "ar": "حديقة"
+  },
+  "family-home": {
+    "en": "Family house",
+    "ar": "بيت العائلة"
+  },
+  "partners": {
+    "en": "Partners",
+    "ar": "شركاء"
+  },
+  "other": {
+    "en": "Other",
+    "ar": "أخرى"
+  },
+  "goodMorning": {
+    "en": "Good morning",
+    "ar": "صباح الخير"
+  },
+  "goodEvening": {
+    "en": "Good evening",
+    "ar": "مساء الخير"
+  },
+  "welcome": {
+    "en": "Welcome",
+    "ar": "مرحبًا بك"
+  },
+  "lastLogin": {
+    "en": "Last login since",
+    "ar": "آخر دخول منذ"
+  },
+  "profile": {
+    "en": "Profile",
+    "ar": "الملف الشخصي"
+  },
+  "notifications": {
+    "en": "Notifications",
+    "ar": "الإشعارات"
+  },
+  "challenges": {
+    "en": "Challenges",
+    "ar": "التحديات"
+  },
+  "savedPlaces": {
+    "en": "Saved places",
+    "ar": "الأماكن المحفوظة"
+  },
+  "reservedTrips": {
+    "en": "Reserved trips",
+    "ar": "الرحلات المحجوزة"
+  },
+  "wallet": {
+    "en": "Wallet",
+    "ar": "المحفظة"
+  },
+  "earnMore": {
+    "en": "Earn more",
+    "ar": "إكسب أكثر"
+  },
+  "switchLang": {
+    "en": "Switch language",
+    "ar": "تغيير اللغة"
+  },
+  "contactWhatsapp": {
+    "en": "Contact on WhatsApp",
+    "ar": "تواصل عبر الواتساب"
+  },
+  "about": {
+    "en": "About",
+    "ar": "حول"
+  },
+  "logout": {
+    "en": "Logout",
+    "ar": "تسجيل الخروج"
+  },
+  "firstname": {
+    "en": "First name",
+    "ar": "الإسم الأول"
+  },
+  "selectDest":{
+    "en":"select ",
+    "ar":"اختيار الوجهه"
+  },
+  "me":{
+    "en":"me",
+    "ar":"انا"
+  },
+  "lastname": {
+    "en": "Last name",
+    "ar": "الإسم الأخير"
+  },
+  "email": {
+    "en": "Email",
+    "ar": "البريد الإلكتروني"
+  },
+  "save": {
+    "en": "Save",
+    "ar": "حفظ"
+  },
+  "popupDeleteAccountTitle": {
+    "en": "Delete your account",
+    "ar": "حذف حسابك"
+  },
+  "invalidVerifiCode":{
+    "en":"invaled code",
+    "ar":"كود غير صالح"
+  },
+  "popupDeleteAccountSubtitle": {
+    "en": "Are you sure want to delete your account?",
+    "ar": "هل أنت متأكد أنك تريد حذف حسابك؟"
+  },
+  "popupDeleteAccountHint": {
+    "en": "Check out your email to confirm deleting your account",
+    "ar": "تفقد بريدك الإلكتروني للتأكيد على حذف حسابك"
+  },
+  "popupLogoutTitle": {
+    "en": "Logout",
+    "ar": "تسجيل الخروج"
+  },
+  "assingAdminMessage":{
+    "en":"do you want to assing user as an admin?",
+    "ar":"هل تريد تعيين المستخدم كمسؤول؟"
+  },
+  "assignAsAdmin":{
+    "en":"assign As Admin",
+    "ar":"تعيين كمسؤول"
+  },
+  "popupLogoutSubtitle": {
+    "en": "Are you sure want to logout?",
+    "ar": "هل أنت متأكد أنك تريد تسجيل الخروج؟"
+  },
+  "popupLogoutHint": {
+    "en": "If you logout, then you will have to retype your phone number and verify it again.",
+    "ar": "إذا قمت بتسجيل الخروج، فسيتعين عليك إعادة كتابة رقم الهاتف والتحقق منه مرة أخرى."
+  },
+  "popupSwitchToPassengerTitle": {
+    "en": "Switch to passenger",
+    "ar": "التبديل إلى راكب"
+  },
+  "popupSwitchToPassengerSubtitle": {
+    "en": "Are you sure you want to switch to a passenger?",
+    "ar": "هل أنت متأكد أنك تريد التبديل إلى راكب؟"
+  },
+  "popupSwitchToPassengerHint": {
+    "en": "If you switch to a passenger, you can easily switch back to driver.",
+    "ar": "إذا قمت بالتبديل إلى راكب، يمكنك الرجوع إلى سائق بكل سهولة."
+  },
+  "popupReturnToDriverTitle": {
+    "en": "Return to driver",
+    "ar": "الرجوع إلى سائق"
+  },
+  "popupReturnToDriverSubtitle": {
+    "en": "Are you sure you want to switch back to a driver?",
+    "ar": "هل أنت متأكد أنك تريد الرجوع إلى سائق؟"
+  },
+  "popupReturnToDriverHint": {
+    "en": "If you switch back to a driver, you can easily switch to passenger again.",
+    "ar": "إذا قمت بالرجوع إلى سائق، يمكنك التبديل إلى راكب مرة أخرى بكل سهولة."
+  },
+  "ok": {
+    "en": "Ok",
+    "ar": "حسنًا"
+  },
+  "monthes":{
+    "en":"monthes",
+    "ar":"اشهر"
+  } ,
+  "AdviceTitle":{
+    "en":"Advice For Safe:",
+    "ar":"نصيحه للأمان:"
+  },
+  "AdviceText":{
+    "en":"Your safety is our priority. Please wear a belt and mask at all times",
+    "ar":"سلامتك هي اولويتنا يرجى ارتداء الحزام والقناع في جميع الاوقات"
+  },
+  "cancel": {
+    "en": "Cancel",
+    "ar": "إلغاء الأمر"
+  },
+  "Soon":{
+    "en":"this feture will be add soon",
+    "ar":"سيتم اضلفه هذه الميزه قريبا"
+  },
+  "Requestwomen":{
+    "en":"Request a women car",
+    "ar":"طلب سيارة نسائيه"
+  },
+  "Requestluxury":{
+    "en":"Request a luxury car",
+    "ar":"طلب سيارة فاخره"
+  },
+  "Requestcommercial":{
+    "en":"Request a commercial car",
+    "ar":"طلب سيارة تجارية"
+  },
+  "WaitingForTheApprovalOfTheNearestDriver":{
+    "en":"Waiting for the approval of the nearest driver",
+    "ar":"في انتظار موافقه اقرب سائق"
+  },
+  "CancelRecuest":{
+    "en":"cancel request",
+    "ar":"الغاء الطلب"
+  },
+  "TripEvalution":{
+    "en":"Trip Evalution",
+    "ar":"تقييم الرحله"
+  },
+  "TheDriverHasReached":{
+    "en":"The driver has reached the specified destination",
+    "ar":"لقد وصل السائق إلى الوجه المحددة"
+  },
+
+  "TheDriverWating":{
+    "en":"The driver is waiting for you outside so don't be late for him",
+    "ar":"السائق في انتظارك في الخارج لا تتأخر عليه"
+  },
+  "HowWasTheTrip":{
+    "en":"how was the trip?",
+    "ar":"كيف كانت الرحلة؟"
+  },
+  "GivUsEvalution":{
+    "en":"Please give us a rating of the trip and the driver",
+    "ar":"من فضلك اعطنا تقييم الرحلة والسائق"
+  },
+  "WhatDidYouLike":{
+    "en":"What did you like most about this trip?",
+    "ar":"ما هو أكثر شيء أعجبك في هذه الرحلة؟"
+  },
+  "WriteYourNotes":{
+    "en":"write your notes",
+    "ar":"اكتب ملاحظاتك"
+  },
+
+
+   "fantasticService":{
+    "en":"fantastic servic",
+    "ar":"خدمه رائعه"
+   },
+   "safeAndComfortable":{
+    "en":"safe and comfortable",
+    "ar":"الامان والراحه"
+   },
+   "fastAccess":{
+    "en":"fast access",
+     "ar":"سرعه الوصول"
+   },
+   "goodPrices":{
+    "en":"good prices",
+    "ar":"الاسعار مناسبه"
+   },
+   "noEvaluation":{
+    "en":"no Evaluation yet",
+    "ar":"لا يوجد تعليقات بعد"
+   },
+   "evaluations":{
+    "en":"evaluations",
+    "ar":"التقييمات"
+   },
+   "aouthers":{
+    "en":"aouthers",
+    "ar":"أخرى"
+   },
+
+   "invaledLocation":{
+    "en":"service don't avalible in your country yat",
+    "ar":"الخدمه غير متاحه في بلدك بعد"
+   },
+
+   "acceptedTitle":{
+    "en":"trip accepted",
+    "ar":"تم قبول الرحله"
+   },
+   "acceptedMsg":{
+    "en":"your request has been accepted by some of drivers",
+    "ar":"تم قبول طلبك بواسطه احد السائقين"
+   },
+
+   "newTripTitle":{
+    "en":"new trip",
+    "ar":"رحله جديده"
+   },
+   "newTripMsg":{
+    "en":"you have new trip request",
+    "ar":"لديك طلب رحله جديد"
+   },
+
+   "startTrip":{
+    "en":"start trip",
+    "ar":"بدء الرحله"
+   },
+
+   "arrived":{
+    "en":"arrived",
+    "ar":"وصلت"
+   },
+   "arrivedPopupTitle":{
+    "en":"did you arrived?",
+    "ar":"هل وصلت"
+   },
+
+   "arrivedPopupMsg":{
+    "en":"are you sure you have arrived to passenger location?",
+    "ar":"هل انت متأكد انك وصل لمكان الراكب"
+   },
+   "openGoogleMaps":{
+    "en":"open Maps",
+    "ar":"فتح الخرائط"
+   },
+   "arrivedTitle":{
+    "en":"driver arrived ",
+    "ar":"وصل السائق"
+   },
+   
+
+  
+  "CallInsideApp":{
+    "en":"call inside app",
+    "ar":"الاتصال داخل التطبيق"
+  },
+  "CallOutsideApp":{
+    "en":"call outside app",
+    "ar":"الاتصال خارج التطبيق"
+  },
+  "StartWorking":{
+    "en":"start working",
+    "ar":"بدايه العمل"
+  },
+  "SumTrips":{
+    "en":"summery of trips",
+    "ar":"مجموع الرحلات"
+  },
+  "ShareYourNotes":{
+    "en":"share your notes about this trip",
+    "ar":"شارك ملاحظاتك عن هذه الرحله"
+  },
+  "SendEvalution":{
+    "en":"send evalution",
+    "ar":"ارسال الملاحظات"
+  },
+  "WriteYourEvalution":{
+    "en":"write your Evalution",
+    "ar":"اكتب ملاحظاتك"
+  },
+  "Continue":{
+    "en":"continue",
+    "ar":"تخطي"
+  },
+  "whatsAppNotInstalled": {
+    "en": "WhatsApp is not installed on your device",
+    "ar": "تطبيق واتساب غير مثبت على جهازك"
+  },
+  "savedPlacesScreenHint": {
+    "en": "You can save your favorite sites to facilitate access to them",
+    "ar": "تستطيع حفظ المواقع المفضلة لتسهيل عملية الوصول لهم"
+  },
+  "addFavLocation": {
+    "en": "Add favorite location",
+    "ar": "إضافة موقع مفضل"
+  },
+  "skip": {
+    "en": "Skip",
+    "ar": "تخطي"
+  },
+  "onboardingOneTitle": {
+    "en": "Security & protection",
+    "ar": "الأمان والحماية"
+  },
+  "onboardingOneSubtitle": {
+    "en": "Since safety is one of the main priorities in the Fast Go application, we provide multiple options to verify the identity of drivers and users.",
+    "ar": "بما أن الأمان يعتبر أحد الأولويات الرئيسية في تطبيق Fast Go ،نقوم بتوفير خيارات متعددة للتأكد من هوية السائقين والمستخدمين"
+  },
+  "onboardingTwoTitle": {
+    "en": "Contact driver",
+    "ar": "الإتصال بالسائق"
+  },
+  "onboardingTwoSubtitle": {
+    "en": "Users can contact the driver assigned to the trip through the application, allowing communication with him in the event of a change in the plan or the exact time of the trip.",
+    "ar": "يمكن للمستخدمين الاتصال بالسائق المعين للرحلة عبر التطبيق، مما يتيح التواصل معه في حالة تغيير في الخطة أو الوقت المحدد للرحلة."
+  },
+  "onboardingThreeTitle": {
+    "en": "Multiple trips",
+    "ar": "الرحلات المتعددة"
+  },
+  "onboardingThreeSubtitle": {
+    "en": "Multiple trips can be booked in the Fast Go app, such as booking for multiple days or for multiple locations. Flight times and departure and arrival points can be specified for each flight.",
+    "ar": "يمكن حجز رحلات متعددة في تطبيق Fast Go، مثل الحجز لعدة أيام أو لعدة مواقع. يمكن تحديد مواعيد الرحلات ونقاط الانطلاق والوصول لكل رحلة."
+  },
+  "addLocationToFav": {
+    "en": "Add location to favorites",
+    "ar": "إضافة الموقع للمفضلة"
+  },
+  "whereTo": {
+    "en": "Where to?",
+    "ar": "إلى أين الوجهة ؟"
+  },
+  "whereYourDestination": {
+    "en": "Where is your destination?",
+    "ar": "أين وجهتك؟"
+  },
+  "requestNow": {
+    "en": "Request now",
+    "ar": "اطلب الآن"
+  },
+  "continue": {
+    "en": "Continue",
+    "ar": "متابعة"
+  },
+  "luxury": {
+    "en": "Luxury car",
+    "ar": "سيارة فاخرة"
+  },
+  "women": {
+    "en": "Women car",
+    "ar": "سيارة نسائية"
+  },
+  "commercial": {
+    "en": "Commercial car",
+    "ar": "سيارة تجارية"
+  },
+  "payCash": {
+    "en": "Pay cash",
+    "ar": "الدفع كاش"
+  },
+  "payFromWallet": {
+    "en": "Pay from wallet",
+    "ar": "الدفع من المحفظة"
+  },
+  "couponInputPlaceholder": {
+    "en": "Add coupon code (optional)",
+    "ar": "أدخل كود الخصم (اختياري)"
+  },
+  "registerAsPassenger": {
+    "en": "Register as passenger",
+    "ar": "تسجيل كراكب"
+  },
+  "registerAsDriver": {
+    "en": "Register as driver",
+    "ar": "تسجيل كسائق"
+  },
+  "welcomeScreenTitle": {
+    "en": "Hello!",
+    "ar": "أهلاً وسهلاً بك!"
+  },
+  "welcomeScreenSubtitle": {
+    "en": "Welcome to our application! We are very happy to have you with us, and we wish you an enjoyable and beneficial experience. Thank you for choosing our app!",
+    "ar": "مرحباً بك في تطبيقنا! نحن سعداء جداً بوجودك معنا، ونتمنى لك تجربة ممتعة ومفيدة. شكراً لاختيارك تطبيقنا!"
+  },
+  "loginScreen1Title": {
+    "en": "Welcome!",
+    "ar": "مرحبًا بك!"
+  },
+  "loginScreen1Subtitle": {
+    "en": "Log in to continue",
+    "ar": "قم بتسجيل الدخول للمتابعة"
+  },
+  "or": {
+    "en": "Or",
+    "ar": "أو"
+  },
+  "continueWithGoogle": {
+    "en": "Continue with Google",
+    "ar": "متابعة باستخدام جوجل"
+  },
+  "continueWithFacebook": {
+    "en": "Continue with Facebook",
+    "ar": "متابعة باستخدام فيسبوك"
+  },
+  "continueWithApple": {
+    "en": "Continue with Apple",
+    "ar": "متابعة باستخدام آبل"
+  },
+  "registerConditions": {
+    "en": "By continuing, you agree to receive WhatsApp calls or SMS messages by automated means from Fast Go.",
+    "ar": "بالمتابعة، فإنك توافق على تلقِّ مكالمات واتساب أو رسائل SMS بالوسائل الآلية من Fast Go."
+  },
+  "googleConditionsPart1": {
+    "en": "This app is protected by reCAPTCHA and",
+    "ar": "هذا التطبيق محمي بواسطة reCAPTCHA"
+  },
+  "googleConditionsPart2": {
+    "en": "Google Privacy Policy",
+    "ar": "وسياسة خصوصية جوجل"
+  },
+  "googleConditionsPart3": {
+    "en": "and applies",
+    "ar": "وتطبق"
+  },
+  "googleConditionsPart4": {
+    "en": "Terms of Service.",
+    "ar": "شروط الخدمة."
+  },
+  "loginScreen2Title": {
+    "en": "Welcome!",
+    "ar": "مرحبًا بك!"
+  },
+  "loginScreen2Subtitle": {
+    "en": "Confirm your information",
+    "ar": "أكّد معلوماتك"
+  },
+
+ 
+
+  "endTrip":{
+    "en":"end trip",
+    "ar":"انهاء الرحله"
+  },
+  "confirmEndTrip":{
+    "en":"are you sure want to end trip",
+    "ar":"هل أنت متأكد أنك تريد انهاء الرحله؟"
+  },
+  "next": {
+    "en": "Next",
+    "ar": "التالي"
+  },
+  "loginScreen3Title": {
+    "en": "Accept Fast Go Terms and review the Privacy Notice.",
+    "ar": "قبول شروط Fast Go و مراجعة إشعار الخصوصية."
+  },
+  "loginScreen3Description": {
+    "en": "By selecting \"I Agree\" below, I have reviewed and agree to the Terms of Use and acknowledge the Privacy Notice. I'm at least 18 years old.",
+    "ar": "باختيار \"أوافق\" أدناه ، فقد راجعت شروط الاستخدام و أوافق عليها وأقر بإشعار الخصوصية.  عمري 18 سنة على الأقل."
+  },
+  "agreeTerms": {
+    "en": "I agree to the terms",
+    "ar": "أوافق على الشروط"
+  },
+  "enterSixDigitsCode": {
+    "en": "Enter the 6-digit code",
+    "ar": "أدخل الرمز المكون من 6 أرقام"
+  },
+  "youCanResendAfter": {
+    "en": "You can resend code after",
+    "ar": "يمكنك إعادة إرسال الرمز بعد"
+  },
+  "popupErrorTitle": {
+    "en": "An error occurred",
+    "ar": "حدث خطأ"
+  },
+  "popupErrorButtonText": {
+    "en": "Ok",
+    "ar": "أتفهم ذلك"
+  },
+  "requestAccountDeletion": {
+    "en": "Request account deletion",
+    "ar": "طلب حذف الحساب"
+  },
+  "favLocationName": {
+    "en": "Favorite location name",
+    "ar": "اسم الموقع المفضل"
+  },
+  "delete": {
+    "en": "Delete",
+    "ar": "حذف"
+  },
+  "chooseLocationPlaceholder": {
+    "en": "Choose address on map",
+    "ar": "اختر عنوانًا على الخريطة"
+  },
+  "unknownLocation": {
+    "en": "Unknown location",
+    "ar": "موقع غير معروف"
+  },
+  "offline": {
+    "en": "You're now offline",
+    "ar": "أنت غير متصل بالإنترنت"
+  },
+  "aboutApp": {
+    "en": "We, in the Fast Go application, provide users with several ways to pay when using the service in order to meet their different needs and provide convenience and security in payment. The customer can pay the driver upon arrival at his destination with cash, credit cards, or various electronic payments such as Paypal or Visa. \n\n With regard to the methods of charging the balance in the driver application, we provide them with many convenient and safe ways to charge their balance, through the code sent to them via text messages or through various electronic wallet applications, such as Paypal, Apple Pay, Google Pay, and others. \n\n As for the ways to earn money by inviting friends, the Fast Go app provides this feature to drivers, where the driver can get a financial reward when he invites his friends to subscribe to the Fast Go app and use the service. Once the invited friend creates an account and uses the service, a monetary reward will be credited to the driver's account.",
+    "ar": "نحن في تطبيق Fast Go نقدم للمستخدمين عدة طرق للدفع عند استخدام الخدمة وذلك لتلبية احتياجاتهم المختلفة وتوفير الراحة والأمان في الدفع، حيث يمكن الزبون الدفع للسائق عند الوصول إلى وجهته بالنقد أو باستخدام البطاقات الإئتمانية أو الدفع الإلكتروني المختلفة مثل باي بال أو الفيزا. \n\n وفيما يتعلق بطرق شحن الرصيد في تطبيق السائق، فإننا نوفر لهم العديد من الطرق المريحة والآمنة لشحن رصيدهم، وذلك من خلال الكود المرسل إليهم عبر الرسائل النصية أو من خلال تطبيقات المحفظة الإلكترونية المختلفة، مثل باي بال و Apple Pay و Google Pay وغيرها.\n\n وبالنسبة لطرق كسب المال من خلال دعوة الأصدقاء، فإن تطبيق Fast Go يوفر هذه الخاصية للسائقين، حيث يمكن للسائق الحصول على مكافأة مالية عند دعوته لأصدقائه للاشتراك في تطبيق Fast Go واستخدام الخدمة. وبمجرد أن يقوم الصديق المدعو بإنشاء حساب واستخدام الخدمة، سيتم إضافة مكافأة مالية إلى حساب السائق."
+  },
+  "walletTitle": {
+    "en": "The current amount in the wallet",
+    "ar": "المبلغ الموجود حاليًا في المحفظة"
+  },
+  "earnMoreTitle": {
+    "en": "Invite friends",
+    "ar": "دعوة الأصدقاء"
+  },
+  "earnMoreSubtitle": {
+    "en": "Invite your friends by copying the code and sending it to them.",
+    "ar": "قم بدعوة أصدقاؤك من خلال نسخ الرمز وإرساله إليهم."
+  },
+  "earnMoreGift": {
+    "en": "You will be given a reward of 2 LYD if someone registers an account using your referral code.",
+    "ar": "سيتم اعطاؤك مكافئة 2 دينار في حال قام أحدهم بتسجيل حساب عن طريق رمز الإحالة الخاص بك."
+  },
+  "copyright": {
+    "en": "Copyright © 2023 Fast Go",
+    "ar": "حقوق النشر © 2023 Fast Go"
+  },
+  "rights": {
+    "en": "All rights reserved",
+    "ar": "جميع الحقوق محفوظة"
+  },
+  "referralCodePlaceholder": {
+    "en": "Referral code (optional)",
+    "ar": "رمز الإحالة (اختياري)"
+  },
+  "referralCodeHint": {
+    "en": "Referral code you received from someone",
+    "ar": "رمز الإحالة الذي تلقيته من شخص ما"
+  },
+  "resendCode": {
+    "en": "Resend verification code",
+    "ar": "إعادة إرسال الرمز"
+  },
+  "happeningNow": {
+    "en": "Running now",
+    "ar": "جاري الآن"
+  },
+  "unknown": {
+    "en": "Unknown",
+    "ar": "مجهول"
+  },
+  "totalTrips": {
+    "en": "Total trips",
+    "ar": "مجموع الرحلات"
+  },
+  "beginningWork": {
+    "en": "Beginning work",
+    "ar": "بداية العمل"
+  },
+  "callInApp": {
+    "en": "Call in app",
+    "ar": "الاتصال داخل التطبيق"
+  },
+  "callOutApp": {
+    "en": "Call out app",
+    "ar": "الاتصال خارج التطبيق"
+  },
+  "calling": {
+    "en": "Calling...",
+    "ar": "جاري الإتصال..."
+  },
+  "addCarInfoTitle": {
+    "en": "Enter your vehicle information",
+    "ar": "أدخل معلومات السيارة الخاصة بك"
+  },
+  "plateNumber": {
+    "en": "Plate Number",
+    "ar": "رقم اللوحة"
+  },
+  "manufactureYear": {
+    "en": "Manufacture year",
+    "ar": "سنة الإنتاج"
+  },
+  "carModel": {
+    "en": "Car model",
+    "ar": "موديل السيارة"
+  },
+  "carColor": {
+    "en": "Car color",
+    "ar": "لون السيارة"
+  },
+  "addCarPhotosTitle": {
+    "en": "Add 4 photos of your car",
+    "ar": "قم بإضافة 4 صور لسيارتك"
+  },
+  "uploadPersonalPhoto": {
+    "en": "Upload a profile picture",
+    "ar": "تحميل صورة الملف الشخصي"
+  },
+  "personalPhotoConditions": {
+    "en": "Avoid wearing sunglasses, or a head hat, and ensure the image has apparent features and close-up.",
+    "ar": "تجنب ارتداء النظارات الشمسية أو قبعة الرأس، وتأكد من أن الصورة بها ميزات واضحة ولقطة مقربة."
+  },
+  "uploadRequiredDocuments": {
+    "en": "Upload required documents",
+    "ar": "قم بتحميل المستندات المطلوبة"
+  },
+  "uploadRequiredDocumentsRequest": {
+    "en": "To verify your identity and comply with the regulations, we will need you to upload the following documents:",
+    "ar": "للتحقق من هويتك والامتثال للوائح، سنحتاج منك تحميل المستندات التالية:"
+  },
+  "carBrochure": {
+    "en": "Car brochure",
+    "ar": "كتيّب السيارة"
+  },
+  "drivingLicense": {
+    "en": "Driving license",
+    "ar": "رخصة القيادة"
+  },
+  "carInsurance": {
+    "en": "Car insurance",
+    "ar": "تأمين السيارة"
+  },
+  "passport": {
+    "en": "Passport",
+    "ar": "جواز السفر"
+  },
+  "requestHasBeenSent": {
+    "en": "Your request has been sent",
+    "ar": "تم إرسال طلبك"
+  },
+  "requestUnderReview": {
+    "en": "Your request is under review. Thanks for waiting!",
+    "ar": "طلبك قيد المراجعة. شكرًا للانتظار!"
+  },
+  "editRequest": {
+    "en": "Edit request",
+    "ar": "تعديل الطلب"
+  },
+  "driverConnected": {
+    "en": "You're connected",
+    "ar": "أنت متصل"
+  },
+  "driverNotConnected": {
+    "en": "You're not connected",
+    "ar": "أنت غير متصل"
+  },
+  "tripsHistory": {
+    "en": "Trips history",
+    "ar": "سجل الرحلات"
+  },
+  "switchToPassenger": {
+    "en": "Switch to passenger",
+    "ar": "التحويل إلى راكب"
+  },
+  "returnToDriver": {
+    "en": "Return to driver",
+    "ar": "الرجوع إلى سائق"
+  },
+  "mainScreen": {
+    "en": "Main",
+    "ar": "الرئيسية"
+  },
+  "newRequest": {
+    "en": "New request",
+    "ar": "طلب جديد"
+  },
+  "approve": {
+    "en": "Approve",
+    "ar": "قبول"
+  },
+  "reject": {
+    "en": "Reject",
+    "ar": "رفض"
+  },
+  "addBalance": {
+    "en": "Add balance",
+    "ar": "إضافة رصيد"
+  },
+  "cardCode": {
+    "en": "Card code",
+    "ar": "كود البطاقة"
+  },
+  "cardCodeInputTitle": {
+    "en": "Card code (14 letters)",
+    "ar": "كود البطاقة (14 حرفًا)"
+  },
+  "add": {
+    "en": "Add",
+    "ar": "إضافة"
+  },
+  "cardBalance": {
+    "en": "Card balance",
+    "ar": "رصيد البطاقة"
+  },
+  "selectGender": {
+    "en": "Select gender",
+    "ar": "اختر الجنس"
+  },
+  "noNotifications": {
+    "en": "There're no notifications yet",
+    "ar": "لا يوجد إشعارات حتى الآن"
+  },
+  "noTrips": {
+    "en": "There're no upcoming reservations",
+    "ar": "لا يوجد حجوزات قادمة"
+  },
+  "loading": {
+    "en": "Just a second",
+    "ar": "لحظات من فضلك"
+  },
+  "networkError": {
+    "en": "Network error",
+    "ar": "خطأ في الشبكة"
+  },
+  "popupDeletionLinkSentTitle": {
+    "en": "Check your email",
+    "ar": "تفقد بريدك الإلكتروني"
+  },
+  "popupDeletionLinkSentSubtitle": {
+    "en": "An email has been sent to you to confirm your account deletion",
+    "ar": "تم إرسال بريد إلكتروني إليك لتأكيد حذف حسابك"
+  },
+  "male": {
+    "en": "Male",
+    "ar": "ذكر"
+  },
+  "female": {
+    "en": "Female",
+    "ar": "أنثى"
+  },
+  "balanceAdded": {
+    "en": "Balance has been added successfully",
+    "ar": "تم إضافة الرصيد بنجاح"
+  },
+  "pendingDrivers": {
+    "en": "Pending drivers",
+    "ar": "السائقين المعلقين"
+  },
+  "activeDrivers": {
+    "en": "Active drivers",
+    "ar": "السائقين النشطين"
+  },
+  "approvedDrivers": {
+    "en": "Approved drivers",
+    "ar": "السائقين المقبولين"
+  },
+  "noOfTrips": {
+    "en": "NO. of trips",
+    "ar": "عدد الرحلات"
+  },
+  "more": {
+    "en": "More",
+    "ar": "المزيد"
+  },
+  "drivers": {
+    "en": "Drivers",
+    "ar": "السائقين"
+  },
+  "requests": {
+    "en": "Requests",
+    "ar": "الطلبات"
+  },
+  "financialManagement": {
+    "en": "Financial management",
+    "ar": "الإدارة المالية"
+  },
+  "addDriver": {
+    "en": "Add driver",
+    "ar": "إضافة سائق"
+  },
+  "regions": {
+    "en": "Regions",
+    "ar": "المناطق"
+  },
+  "sendNotification": {
+    "en": "Send notification",
+    "ar": "إرسال إشعار"
+  },
+  "searchUser": {
+    "en": "Search user",
+    "ar": "البحث عن مستخدم"
+  },
+  "exportExcelFile": {
+    "en": "Export excel file",
+    "ar": "تصدير ملف اكسل"
+  },
+  "noDrivers": {
+    "en": "There are no drivers yet",
+    "ar": "لا يوجد سائقين بعد"
+  },
+  "all": {
+    "en": "All",
+    "ar": "الكل"
+  },
+  "pending": {
+    "en": "Pending",
+    "ar": "المعلقين"
+  },
+  "rejected": {
+    "en": "Rejected",
+    "ar": "المرفوضين"
+  },
+  "driverRequest": {
+    "en": "Driver request",
+    "ar": "طلب السائق"
+  },
+  "driverInfo": {
+    "en": "Driver information",
+    "ar": "معلومات السائق"
+  },
+  "notSpecified": {
+    "en": "Not specified",
+    "ar": "غير محدد"
+  },
+  "carInfo": {
+    "en": "Car information",
+    "ar": "معلومات السيّارة"
+  },
+  "requiredDocuments": {
+    "en": "Required docuemnts",
+    "ar": "المستندات المطلوبة"
+  },
+  "noRequests": {
+    "en": "There are no requests yet",
+    "ar": "لا يوجد طلبات بعد"
+  },
+  "activeRequests": {
+    "en": "Active",
+    "ar": "النشطة"
+  },
+  "reservedRequests": {
+    "en": "Reserved",
+    "ar": "المحجوزة"
+  },
+  "rejectedRequests": {
+    "en": "Rejected",
+    "ar": "المرفوضة"
+  },
+  "activeTrip": {
+    "en": "Active",
+    "ar": "جاري الآن"
+  },
+  "reservedTrip": {
+    "en": "Reserved",
+    "ar": "محجوز"
+  },
+  "rejectedTrip": {
+    "en": "Rejected",
+    "ar": "مرفوض"
+  },
+  "passengers": {
+    "en": "Passengers",
+    "ar": "الركاب"
+  },
+  "noPassengers": {
+    "en": "There are no passengers yet",
+    "ar": "لا يوجد هناك ركاب بعد"
+  },
+  "exportCards":{
+    "en":"export cards",
+    "ar":"تصدير بطاقات"
+  },
+  "tripsPricing": {
+    "en": "Trips pricing",
+    "ar": "تسعير الرحلات"
+  },
+  "invalidCode":{
+    "en":"invaled couponCode",
+    "ar":"رمز خصم غير صالح"
+  },
+  
+  "tripsPricingDescription": {
+    "en": "Setting a price according to car type and kilometers",
+    "ar": "وضع تسعيرة حسب نوع السيارة وعدد الكيلو مترات"
+  },
+  "couponCodes": {
+    "en": "Coupon codes",
+    "ar": "أكواد الخصم"
+  },
+  "couponCodesDescription": {
+    "en": "Add coupon codes with discount percentage",
+    "ar": "إضافة أكواد الخصم ووضع تسعيرة لنسبة الخصم"
+  },
+  "paymentCards": {
+    "en": "Payment cards",
+    "ar": "بطاقات الدفع"
+  },
+  "chargeCardsDescription": {
+    "en": "Add charge cards with any amount",
+    "ar": "أضف بطاقات شحن بأي مبلغ"
+  },
+  "carType": {
+    "en": "Car type",
+    "ar": "نوع السيّارة"
+  },
+  "distance": {
+    "en": "Distance",
+    "ar": "المسافة"
+  },
+  "price": {
+    "en": "Price",
+    "ar": "السعر"
+  },
+  "doorOpening": {
+    "en": "Door opening",
+    "ar": "فتحة الباب"
+  },
+  "edit": {
+    "en": "Edit",
+    "ar": "تعديل"
+  },
+  "couponCode": {
+    "en": "Coupon code",
+    "ar": "كود الخصم"
+  },
+  "discountPercentage": {
+    "en": "Discount percentage",
+    "ar": "نسبة الخصم"
+  },
+  "autoCode": {
+    "en": "Auto code",
+    "ar": "كود تلقائي"
+  },
+  "cardsCount": {
+    "en": "Cards count",
+    "ar": "عدد الأكواد"
+  },
+  "addDriverInfo": {
+    "en": "Add driver info",
+    "ar": "أضف معلومات السائق"
+  },
+  "successMssg": {
+    "en": "Process accomplished successfully",
+    "ar": "تمت العملية بنجاح"
+  },
+  "backToHome": {
+    "en": "Back to home",
+    "ar": "الرجوع للرئيسية"
+  },
+  "region": {
+    "en": "Region",
+    "ar": "المنطقة"
+  },
+  "addRegion": {
+    "en": "Choose the region you want to add",
+    "ar": "اختر المنطقة التي تريد إضافتها"
+  },
+  "addedRegions": {
+    "en": "Regions added",
+    "ar": "المناطق المضافة"
+  },
+  "tripsNumber": {
+    "en": "Trips target",
+    "ar": "عدد الرحلات"
+  },
+  "referralsNumber": {
+    "en": "Referrals target",
+    "ar": "عدد الإحالات"
+  },
+  "reward": {
+    "en": "Reward",
+    "ar": "المكافأة"
+  },
+  "userCategory": {
+    "en": "User category",
+    "ar": "فئة المستخدم"
+  },
+  "addedChallenges": {
+    "en": "Challenges added",
+    "ar": "التحديات المضافة"
+  },
+  "notificationTitle": {
+    "en": "Notification title",
+    "ar": "عنوان الإشعار"
+  },
+  "notificationBody": {
+    "en": "Notification body",
+    "ar": "محتوى الإشعار"
+  },
+  "send": {
+    "en": "Send",
+    "ar": "إرسال"
+  },
+  "downloadFile": {
+    "en": "Download file",
+    "ar": "تنزيل الملف"
+  },
+  "emailOrPhone": {
+    "en": "Email or phone number",
+    "ar": "البريد الإلكتروني أو رقم الهاتف"
+  },
+  "passengerInfo": {
+    "en": "Passenger information",
+    "ar": "معلومات الراكب"
+  },
+  "adminInfo": {
+    "en": "Admin information",
+    "ar": "معلومات الآدمن"
+  },
+  "phone": {
+    "en": "Phone number",
+    "ar": "رقم الهاتف"
+  },
+  "gender": {
+    "en": "Gender",
+    "ar": "الجنس"
+  },
+  "balance": {
+    "en": "Balance",
+    "ar": "الرصيد"
+  },
+  "driverProfitRate": {
+    "en": "Profit rate",
+    "ar": "نسبة الأرباح"
+  },
+  "saveUser": {
+    "en": "Save user",
+    "ar": "حفظ المستخدم"
+  },
+  "blockUser": {
+    "en": "Block user",
+    "ar": "حظر المستخدم"
+  },
+  "blockedTitle":{
+    "en":"you have been bannded",
+    "ar":"لقد تم حظرك"
+  },
+  
+  "blockedMsg":{
+    "en":"You have been banned for not complying with the rules ",
+    "ar":"لقد تم حظرك بسبب عدم التزامك بالقوانين"
+
+  },
+  "unBlockUser":{
+    "en":"un block user",
+    "ar":"الغاء حظر المستخدم"
+  },
+  "popupBlockUserTitle": {
+    "en": "Block user",
+    "ar": "حظر المستخدم"
+  },
+  "popupBlockUserSubtitle": {
+    "en": "Are you sure want to block the user?",
+    "ar": "هل أنت متأكد أنك تريد حظر المستخدم؟"
+  },
+  "popupBlockUserHint": {
+    "en": "If you block the user, they won't be able to benefit from the services of our application",
+    "ar": "إذا قمت بحظر المستحدم، فانه لن يتمكن من الاستفادة من خدمات البرنامج"
+  },
+  "deleteRegion": {
+    "en": "Delete region",
+    "ar": "حذف المطقة"
+  },
+  "passenger": {
+    "en": "Passenger",
+    "ar": "راكب"
+  },
+  "driver": {
+    "en": "Driver",
+    "ar": "سائق"
+  },
+  "noPendingDrivers": {
+    "en": "No pending drivers right now",
+    "ar": "لا يوجد سائقين معلقين"
+  },
+  "noCouponCodes": {
+    "en": "No coupon codes added yet",
+    "ar": "لا يوجد أكواد خصم مُضافة بعد"
+  },
+  "noPaymentCards": {
+    "en": "No payment cards added yet",
+    "ar": "لا يوجد بطاقات دفع مُضافة بعد"
+  },
+  "noChallengesAdded": {
+    "en": "No challenges added yet",
+    "ar": "لا يوجد تحديات مُضافة بعد"
+  },
+  "mercedes": {
+    "en": "Mercedes",
+    "ar": "مرسيدس"
+  },
+  "toyota": {
+    "en": "Toyota",
+    "ar": "تويوتا"
+  },
+  "blue": {
+    "en": "Blue",
+    "ar": "أزرق"
+  },
+  "yellow": {
+    "en": "Yellow",
+    "ar": "أصفر"
+  },
+  "black": {
+    "en": "Black",
+    "ar": "أسود"
+  },
+  "gray": {
+    "en": "Gray",
+    "ar": "رمادي"
+  },
+  "approved": {
+    "en": "Approved",
+    "ar": "مقبول"
+  }
+}
